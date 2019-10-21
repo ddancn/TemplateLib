@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">lib</string>
+    <string name="cancel">取消</string>
+    <string name="confirm">确定</string>
+    <string name="request_fail">服务器开小差了，一会再试一下吧Orz</string>
+    <string name="empty_text">这里什么都没有(〃ﾉωﾉ)</string>
+    <string name="footer_text">再怎么找也没有啦(・ω・｀ll)</string>
+</resources>
